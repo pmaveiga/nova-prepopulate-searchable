@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "laravel/nova": "^3.31",
+        "laravel/nova": "^3.31 || ^4.0",
         "illuminate/support": "^9.0"
     },
     "autoload": {
