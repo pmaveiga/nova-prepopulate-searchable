@@ -1,5 +1,5 @@
 {
-    "name": "imashoosx/nova-prepopulate-searchable-four",
+    "name": "pmaveiga/nova-prepopulate-searchable",
     "description": "A tool to allow BelongsTo searchable fields to be pre-populated with data",
     "keywords": [
         "laravel",
